@@ -1,0 +1,82 @@
+body{ background-color:green;
+margin: 0;
+font-family:cursive ;
+;}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;}
+
+h1{ color: green;
+  font-size: 100px;
+  margin-top: 0;}
+h3{color: #34E8FF;}
+p{
+  color:green;
+  font-size: 50px;
+  filter: drop-shadow(0 0 10px rgba(0,0,0.5));
+  font-style: bold;}
+  div{
+    background-color:black;
+  }
+.Top-container{
+ background-color:black;
+ filter: drop-shadow(0 0 10px rgba(0,0,0.5));
+ text-align: center;}
+
+.middle-container{
+  background-color: black;
+  margin-top: 100px;
+  padding: 200px;
+  float: left;
+  display: inline-block;
+  filter: drop-shadow(0 0 10px rgba(0,0,0.5));}
+
+.bottom-container{
+  background-color: black;
+  display: inline-block;
+  padding: 200px;
+  margin-top: 100px;
+  margin-left: 200px;
+  filter: drop-shadow(0 0 10px rgba(0,0,0.5));
+  height: 2cm;
+  text-align: center;}
+
+.web{
+  text-decoration: underline;
+  text-align: center;}
+
+img{
+  position: absolute;
+  right: 20px;
+  top:20px;}
+
+table{
+  font-size: 50px;
+  font-style: bold;
+  color: white;
+  filter: drop-shadow(0 0 10px rgba(0,0,0.5));}
+
+.clients{
+  background-color: black;
+  display: inline-block;
+  padding: 200px;
+  margin-right: 100px;
+  margin-top: 20px;
+  margin-left: 200px;
+  filter: drop-shadow(0 0 10px rgba(0,0,0.5));
+  height: 2cm;  
+ width: 8.5cm;
+   text-align: center}
+
+
+h2{
+  color:white;
+  font-size: 50px;
+font-style:italic;}
+.about{
+  text-decoration: underline;
+  text-align: center;}
